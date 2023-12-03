@@ -2,7 +2,7 @@
 layout: page
 title: CEO
 subtitle: SPEY Group Co.
-cover-img: /assets/img/E439EE98%2D4B88%2D4E44%2D93C3%2D07C5FA9F996B_1_105_c.jpeg
+cover-img: /assets/img/wonkyu2.png
 ---
 
 <br/>
