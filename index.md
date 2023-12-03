@@ -1,7 +1,7 @@
 ---
 layout: page
-title: WONKYU CHANG
-subtitle: wonkyu.chang@gmail.com
+title: HAM
+subtitle: 6K2KWO
 cover-img: /assets/img/wonkyu2.png
 ---
 
