@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CEO
-subtitle: SPEY Group Co.
+title: WONKYU CHANG
+subtitle: wonkyu.chang@gmail.com
 cover-img: /assets/img/wonkyu2.png
 ---
 
