@@ -23,7 +23,7 @@ He loves to bring new ideas and share it with collaborators. Hello world! &#1285
 ## Contact
 
 ```
-Affiliation: SPEY Group Co.
+Affiliation: SPEY Group
 FAX: 0504-084-3787
 Email: wonkyu.chang@gmail.com
 ```
