@@ -11,7 +11,7 @@ cover-img: /assets/img/wonkyu2.png
 
 **Wonkyu Chang** is a **_computer engineer._** 
 
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+Hello world! &#128525;
 
 ## Contact
 
