@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 
-2023.12.4
+2023.12.22
 
 #
 ### 오륜서 - 미야모토 무사시의 전략경영
@@ -31,3 +31,15 @@ title: Publication
 - **제3장 불(화)의 전략**, 철저한 준비와 전략을 세워라
 - **제4장 바람(풍)의 전략**, 형식에 매이지 말라
 - **제5장 비어있음(공)의 전략**, 승부를 초월한 마음을 가져라
+
+#
+### 앨빈 토플러의 생각을 읽자
+#### 조희원, ISBN 978-89-349-6545-9
+- **제1장 제3의 물결 The Third Waves
+- **제2장 권력이동 Powershift
+- **제3장 부의 미래 Revolutionary Wealth
+- **제4장 불황을 넘어서 Beyond Depression
+- **제5장 전쟁과 반전쟁 War and Anti-war
+
+#
+
