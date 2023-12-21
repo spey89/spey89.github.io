@@ -16,7 +16,7 @@ Hello world! &#128525;
 ## Contact
 
 ```
-Affiliation: SPEY Group
+Affiliation: SPEY Co.
 FAX: 0504-084-3787
 Email: wonkyu.chang@gmail.com
 ```
