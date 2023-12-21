@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HAM
+title: SPEY
 subtitle: 6K2KWO
 cover-img: /assets/img/wonkyu2.png
 ---
@@ -9,8 +9,6 @@ cover-img: /assets/img/wonkyu2.png
 
 ## About me
 
-**Wonkyu Chang** is a **_computer engineer._** 
-
 Hello world! &#128525;
 
 ## Contact
@@ -18,5 +16,5 @@ Hello world! &#128525;
 ```
 Affiliation: SPEY Co.
 FAX: 0504-084-3787
-Email: wonkyu.chang@gmail.com
+Email: spey@kakao.com
 ```
