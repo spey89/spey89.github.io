@@ -1,61 +1,53 @@
 ---
 layout: page
-title: Work Career
+title: 경력
 ---
 
 <br/>
 
 
-# Work Experience
+# 주요 경력
 
-### Dell International
+### (현) 스페이그룹(주)
 
-### Hanil Networks Co.
+### (전) 한국EMC
 
-### Cisco Systems
+### (전) 한일네크웍스(주)
 
-### Hewlette Packard Co.
+### (전) 시스코시스템즈코리아
 
-### Dell International
+### (전) 한국휴렛팩커드
 
-### Sun Microsystems Co.
+### (전) 델인터내셔날코리아
 
-### LG Information & Communication Co.
+### (전) 한국썬마이크로시스템즈
+
+### (전) LG정보통신(주)
 
 
-* Project 
+# 주요 활동 
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
-
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
-
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student
+### 테니스클럽회원 
+### 암벽등반 동호회
+### 플라이낚시 동호회
+### 풋살 동호회
+### 바다수영 동호회
+### 세일링요트 동호회 
 
 <br/>
 
-# Professional Activity
+# 비지니스 활동 
 
-### Open Source Project Contribution
-
-* Kubernetes project ???
-  
-### Reviewer for Reputed Journals
-
-* ACM ???
+### ERICOM 총판 사업 진행 (2005년 ~ 2006년)
+* 업무 계약 - Exclusive Distributor 
 
 
 
 <br/>
 
-# Honor and Award
+# 자격 및 수상 이력 
 
-* Award from ???
+### 전자계산기기사1급
+### 자동차1종보통, 자동차2종소형
+### 아무추어무선햄3급
+
