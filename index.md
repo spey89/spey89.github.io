@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 스페이그룹(주)
-subtitle: 경영컨설팅/IT컨설팅/부동산컨설팅
+subtitle: IT컨설팅/스포츠마케팅/부동산개발
 cover-img: /assets/img/wonkyu2.png
 ---
 
