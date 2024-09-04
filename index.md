@@ -7,11 +7,11 @@ cover-img: /assets/img/wonkyu2.png
 
 <br/>
 
-## About me
+## 소개
 
 Hello world! &#128525;
 
-## Contact
+## 연락처
 
 ```
 회사 : 스페이그룹(주)
