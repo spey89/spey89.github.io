@@ -1,20 +1,932 @@
----
-layout: page
-title: 스페이그룹(주)
-subtitle: IT컨설팅/투자자문/스포츠마케팅/부동산개발
-cover-img: /assets/img/wonkyu2.png
----
 
-<br/>
+<!DOCTYPE html>
+<html lang="ko">
 
-## 소개
+<head>
+    
 
-Hello world! &#128525;
 
-## 연락처
 
-```
-회사 : 스페이그룹(주)
-팩스 : 0504-084-3787
-전자우편 : spey@kakao.com
-```
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta
+	name="viewport"
+	content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale1.0,user-scalable=no"
+/>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<title>(주)아이소프트</title>
+<link rel="shortcut icon" href="/site1/res/favicon.ico">
+
+<!-- Publish CSS -->
+<!-- 
+<link rel="stylesheet" type="text/css" href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square.css">
+ -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css">
+<link rel="stylesheet" type="text/css" href="/site1/res/pub/front/js/swiper.min.css" />
+<link href="/site1/res/pub/front/css/spinner.css?ver=1.0.0" rel="stylesheet" />
+<!-- <link href="/site1/res/pub/front/css/style-dev.css?ver=2025-04-09T21:20:32.364" rel="stylesheet" /> -->
+
+<link rel="stylesheet" type="text/css" href="/site1/res/pub/front/css/layout-dev.css?v=2025-04-09T21:20:32.364">
+
+<!-- Publish JS -->
+<script src="/site1/res/pub/front/js/jquery-3.2.1.min.js"></script>
+<script src="/site1/res/pub/front/js/swiper.min.js"></script>
+
+<script defer src="/site1/res/pub/front/js/script.js?v=2025-04-09T21:20:32.364"></script>
+
+<script src="/site1/res/pub/common/common.js?v=2025-04-09T21:20:32.364"></script>
+
+<!-- soyun,240411,final  -->
+<!-- css  -->
+<link rel="stylesheet" href="/site1/res/pub/front/plugins/bootstrap/bootstrap.min.css" />
+<link rel="stylesheet" href="/site1/res/pub/front/plugins/slick/slick.css" />
+
+<link rel="stylesheet" type="text/css" href="/site1/res/pub/front/css/base.css?v=2025-04-09T21:20:32.364">
+<link rel="stylesheet" type="text/css" href="/site1/res/pub/front/css/layout.css?v=2025-04-09T21:20:32.364">
+<link rel="stylesheet" type="text/css" href="/site1/res/pub/front/css/common.css" />
+
+<link rel="stylesheet" type="text/css" href="/site1/res/pub/front/js/jquery.fullpage.min.css" />
+<link rel="stylesheet" type="text/css" href="/site1/res/pub/front/css/sub_new.css" />
+
+
+<!-- js  -->
+<script src="/site1/res/pub/front/plugins/jquery/jquery-2.1.1.min.js"></script>
+
+<script src="/site1/res/pub/front/plugins/slick/slick.min.js"></script>
+<script src="/site1/res/pub/front/plugins/jquery/jquery-ui.min.js"></script>
+<script src="/site1/res/pub/front/plugins/bootstrap/bootstrap.min.js"></script>
+
+<!-- 
+<script src="https://code.jquery.com/jquery-migrate-3.4.1.js"></script>
+ -->
+<!--  조직도 vs 메인 충돌  -->
+
+<script src="/site1/res/pub/front/js/common_head.js"></script>
+
+
+<script src="/site1/res/pub/front/js/common_new.js"></script>
+<script src="/site1/res/pub/front/js/common-scroll.js"></script>
+
+<script src="/site1/res/pub/front/js/jquery.fullpage.min.js"></script>
+
+<script src="/site1/res/pub/front/js/gnb.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+
+<!-- DEV FILES -->
+<script>
+	let g_cmsLoginUserId = '';
+	g_cmsLoginUserId = '';
+</script>
+
+
+<script src="/site1/res/biz/js/common/check-url.js?v=2025-04-09T21:20:32.365"></script>
+
+<script src="/site1/res/biz/lib/SE/js/HuskyEZCreator.js"></script>
+<script src="/site1/res/biz/js/common/smart-editor-helper.js?v=2025-04-09T21:20:32.365"></script>
+
+<script src="/site1/res/biz/lib/vue.js"></script>
+<script src="/site1/res/biz/lib/vue-custom-filter.js"></script>
+<script src="/site1/res/biz/lib/vue.common.js?v=2025-04-09T21:20:32.365"></script>
+<script src="/site1/res/biz/lib/axios.min.js"></script>
+<script src="/site1/res/biz/lib/axios.min-config.js?v=2025-04-09T21:20:32.365"></script>
+
+<script src="/site1/res/biz/lib/es6-promise.auto.min.js"></script>
+<script src="/site1/res/biz/lib/es6-promise.min.js"></script>
+<script src="/site1/res/biz/lib/clipboard.min.js"></script>
+
+<script src="/site1/res/biz/lib/jquery.cookie.js"></script>
+<script src="/site1/res/biz/js/common/global-util.js?v=2025-04-09T21:20:32.365"></script>
+
+<script src="/site1/res/biz/js/common/menu-util.js?v=2025-04-09T21:20:32.365"></script>
+
+<script src="/site1/res/biz/js/service/base-service.js"></script>
+<script src="/site1/res/biz/js/service/front-service.js"></script>
+<style>
+
+
+/* 연혁 숫자 폰트  */
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap" rel="stylesheet">
+
+</style>
+<link rel="stylesheet" href="/site1/res/pub/front/css/main_new.css" />
+	<script src="/site1/res/pub/front/js/main.js"></script>	
+<style>
+
+#main_visual .bgimg {position: absolute; 
+	left: 0; top: 0; width: 100%; height: 100%; background-repeat: no-repeat; background-size: cover; background-position: left; 
+	/* transform: scale(1.1); -webkit-transform: scale(1.1); animation: bg 10s linear 1; -webkit-animation: bg 10s linear 1; */
+	transform: scale(1); -webkit-transform: scale(1); animation: bg 10s linear 1; -webkit-animation: bg 10s linear 1;
+}
+/* MAIN - First Image effect */
+@keyframes bg {
+    0% {transform: scale(1.1) rotate(-0.01deg); -webkit-transform: scale(1.1) rotate(-0.01deg);}
+    100% {transform: scale(1) rotate(-0.01deg); -webkit-transform: scale(1) rotate(-0.01deg);}
+}
+
+
+#main_visual .images_fade1 .bgimg {background-image: url(/files/uploads/2024/07/fb0b3a5c9b104af6b53465f5a3d74cdb.jpg);}
+
+#main_visual .images_fade2 .bgimg {background-image: url(/files/uploads/2024/07/ffec5e9f750147ad997552a50aee9eaf.jpg);}
+
+#main_visual .images_fade3 .bgimg {background-image: url(/files/uploads/2024/07/c94760ce01df401c9ac29038d66845c4.jpg);}
+
+
+
+@media(max-width: 1100px){
+    #main_visual .bgimg {transform: none; -webkit-transform: none; animation: none; -webkit-animation: none;}
+}
+
+@media (max-width: 580px) {
+	
+			#main_visual .images_fade1 .bgimg {
+				background: url(/files/uploads/2024/08/9ece1c7f20fc4c9fa17cd1d4e39c9e39.jpg) no-repeat center !important;
+        		background-size: cover;
+			}
+		
+			#main_visual .images_fade2 .bgimg {
+				background: url(/files/uploads/2024/08/ee215949f8fb48cca910bf619e780c69.jpg) no-repeat center !important;
+        		background-size: cover;
+			}
+		
+			#main_visual .images_fade3 .bgimg {
+				background: url(/files/uploads/2024/08/ac825b50834d4783bbec1be40c9d0d66.jpg) no-repeat center !important;
+        		background-size: cover;
+			}
+		
+}
+
+.btn_top { display: none !important; }
+/* #section5 .fp-tableCell {height: inherit !important;} */
+
+</style>
+</head>
+
+<body>
+	<!-- KOR Version -->
+		<div id="sitemap">
+	<div class="navwrap">
+		<h4>사이트맵</h4>
+        	<div class="btns">
+			<a href="https://open.kakao.com/o/sBv1lOAg" class="btn_func" target="_blank">카카오톡</a>
+					<a href="https://113366.com/isoft" class="btn_func" target="_blank">원격접속</a>
+        		<a href="#" class="btn_menu"></a>
+		</div>
+		<div class="clfix"></div>
+		<ul class="sidemenu">
+			<li class="cont_fit " >
+						<a href="/page/company/outline">회사 소개</a>
+						<div class="depth_sub sub03">
+							<h3 class="is-active" >
+									<a class="on" href="/page/company/outline">회사 개요</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/company/vision">미션 및 비전</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/company/history">주요 연혁</a>
+									</h3>
+							<h3  >
+									<a class="" href="/board/cert">특허 및 인증</a>
+									</h3>
+							<h3  >
+									<a class="" href="/company/partners">고객사 및 협력사</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/company/map">찾아오시는 길</a>
+									</h3>
+							</div>
+						</li>
+				<li class="cont_fit " >
+						<a href="/work/si">사업 실적</a>
+						<div class="depth_sub sub03">
+							<h3  >
+									<a class="" href="/work/si">SI 통합 개발</a>
+									</h3>
+							<h3  >
+									<a class="" href="/work/ict">ICT 인프라 구축</a>
+									</h3>
+							<h3  >
+									<a class="" href="/work/rnd">R&D</a>
+									</h3>
+							</div>
+						</li>
+				<li class="cont_fit " >
+						<a href="/page/business/si">사업 영역</a>
+						<div class="depth_sub sub03">
+							<h3  >
+									<a class="" href="/page/business/ai">AI / DT 구축 사업</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/business/si">SI 통합 개발</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/business/ict">ICT 인프라</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/business/cloud">클라우드</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/business/rnd">R&D 및 솔루션</a>
+									</h3>
+							</div>
+						</li>
+				<li class="cont_fit " >
+						<a href="/board/notice">고객 지원</a>
+						<div class="depth_sub sub03">
+							<h3  >
+									<a class="" href="/board/notice">공지사항</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/support/inquiry">고객문의</a>
+									</h3>
+							</div>
+						</li>
+				<li class="cont_fit " >
+						<a href="/page/recruit/talent">인재 채용</a>
+						<div class="depth_sub sub03">
+							<h3  >
+									<a class="" href="/page/recruit/talent">인재상</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/recruit/welfare">복리후생</a>
+									</h3>
+							<h3  >
+									<a class="" href="/page/recruit/person">인재채용</a>
+									</h3>
+							</div>
+						</li>
+				</ul>
+	</div>
+</div>
+<!-- 스킵네비케이션시작 -->
+<div id="skipnavi">
+    <a href="#body_layout">본문 바로가기</a> <a href="#gnb">대메뉴 바로가기</a>
+</div>
+<!-- 스킵네비케이션끝 -->
+
+<header id="top_layout">
+	<div class="top_wrap clear">
+    	<div class="logo_wrap" id="logo">
+        			<a href="/"><span class="logo_kor">(주)아이소프트</span></a>
+        		</div>
+        	<!-- <a href="/"><span>(주)아이소프트</span></a> -->
+	    
+	    <ul class="utile_wrap clear">
+	    	<li class="menu">
+	        	<a href="#"><span></span>전체메뉴</a>
+		        	</li>
+			<li class="box pc"><a href="#"><span><em></em>전체메뉴</span></a></li>
+	        <li class="box mo"><button type="button" class="btn-allmenu" data-toggle="modal" data-target="#mobile-menu">전체메뉴</button></li>
+	    </ul>
+	</div>
+	<nav id="gnb_layout">
+	    <div id="gnb">
+	        <!-- 공통메뉴틀 시작 -->
+	        <div class="gnb_wrap layout">
+	            <!-- 메뉴 시작 -->
+	            <ul class="depth1_ul n6">
+	            	<li class="n1"> <!-- menu title -->
+								<a class="th_1st" href="/page/company/outline"><span>회사 소개</span></a>
+								<div class="item">
+									<div class="gnb-title"><strong>회사 소개</strong></div>
+									<ul class="depth2_ul depth2_1">
+											<li class="is-active n1_1" >
+													<a href="/page/company/outline"><span>회사 개요</span></a>
+													</li>
+											<li  >
+													<a href="/page/company/vision"><span>미션 및 비전</span></a>
+													</li>
+											<li  >
+													<a href="/page/company/history"><span>주요 연혁</span></a>
+													</li>
+											<li  >
+													<a href="/board/cert"><span>특허 및 인증</span></a>
+													</li>
+											<li  >
+													<a href="/company/partners"><span>고객사 및 협력사</span></a>
+													</li>
+											<li  >
+													<a href="/page/company/map"><span>찾아오시는 길</span></a>
+													</li>
+											</ul>
+									</div>
+						    </li>
+						<li class=""> <!-- menu title -->
+								<a class="th_1st" href="/work/si"><span>사업 실적</span></a>
+								<div class="item">
+									<div class="gnb-title"><strong>사업 실적</strong></div>
+									<ul class="depth2_ul depth2_2">
+											<li  >
+													<a href="/work/si"><span>SI 통합 개발</span></a>
+													</li>
+											<li  >
+													<a href="/work/ict"><span>ICT 인프라 구축</span></a>
+													</li>
+											<li  >
+													<a href="/work/rnd"><span>R&amp;D</span></a>
+													</li>
+											</ul>
+									</div>
+						    </li>
+						<li class=""> <!-- menu title -->
+								<a class="th_1st" href="/page/business/si"><span>사업 영역</span></a>
+								<div class="item">
+									<div class="gnb-title"><strong>사업 영역</strong></div>
+									<ul class="depth2_ul depth2_3">
+											<li  >
+													<a href="/page/business/ai"><span>AI / DT 구축 사업</span></a>
+													</li>
+											<li  >
+													<a href="/page/business/si"><span>SI 통합 개발</span></a>
+													</li>
+											<li  >
+													<a href="/page/business/ict"><span>ICT 인프라</span></a>
+													</li>
+											<li  >
+													<a href="/page/business/cloud"><span>클라우드</span></a>
+													</li>
+											<li  >
+													<a href="/page/business/rnd"><span>R&amp;D 및 솔루션</span></a>
+													</li>
+											</ul>
+									</div>
+						    </li>
+						<li class=""> <!-- menu title -->
+								<a class="th_1st" href="/board/notice"><span>고객 지원</span></a>
+								<div class="item">
+									<div class="gnb-title"><strong>고객 지원</strong></div>
+									<ul class="depth2_ul depth2_4">
+											<li  >
+													<a href="/board/notice"><span>공지사항</span></a>
+													</li>
+											<li  >
+													<a href="/page/support/inquiry"><span>고객문의</span></a>
+													</li>
+											</ul>
+									</div>
+						    </li>
+						<li class=""> <!-- menu title -->
+								<a class="th_1st" href="/page/recruit/talent"><span>인재 채용</span></a>
+								<div class="item">
+									<div class="gnb-title"><strong>인재 채용</strong></div>
+									<ul class="depth2_ul depth2_5">
+											<li  >
+													<a href="/page/recruit/talent"><span>인재상</span></a>
+													</li>
+											<li  >
+													<a href="/page/recruit/welfare"><span>복리후생</span></a>
+													</li>
+											<li  >
+													<a href="/page/recruit/person"><span>인재채용</span></a>
+													</li>
+											</ul>
+									</div>
+						    </li>
+						</ul>
+	            <!-- 메뉴 끝 -->
+	        </div>
+	        <span class="line"></span>
+	        <!-- 공통메뉴틀 끝 -->
+	    </div>
+	</nav>
+		
+	<!-- 모바일 메뉴 -->
+	<div class="modal fade" id="mobile-menu" role="dialog" aria-hidden="true">
+	    <div class="modal-dialog" role="document">
+	        <div class="modal-content">
+	            <div class="modal-body accordion">
+	                <ul class="depth1_ul n6">
+	                	<!-- menu depth 1 -->
+							<li class="n "> <!-- menu depth 2 -->
+									<a href="/page/company/outline" data-target="#mMenu_modal1" class="ov" ><span>회사 소개</span></a>
+									<ul class="depth2_ul" id="mMenu_modal1" data-parent="#mobile-menu"   style="display: block;" >
+											<li class="is-active">
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/company/outline" ><span>회사 개요</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/company/vision" ><span>미션 및 비전</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/company/history" ><span>주요 연혁</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/board/cert" ><span>특허 및 인증</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/company/partners" ><span>고객사 및 협력사</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/company/map" ><span>찾아오시는 길</span></a>
+													</li>
+											</ul>
+									</li>
+							<li class="n "> <!-- menu depth 2 -->
+									<a href="/work/si" data-target="#mMenu_modal2"  ><span>사업 실적</span></a>
+									<ul class="depth2_ul" id="mMenu_modal2" data-parent="#mobile-menu"   style="display: none;" >
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/work/si" ><span>SI 통합 개발</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/work/ict" ><span>ICT 인프라 구축</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/work/rnd" ><span>R&amp;D</span></a>
+													</li>
+											</ul>
+									</li>
+							<li class="n "> <!-- menu depth 2 -->
+									<a href="/page/business/si" data-target="#mMenu_modal3"  ><span>사업 영역</span></a>
+									<ul class="depth2_ul" id="mMenu_modal3" data-parent="#mobile-menu"   style="display: none;" >
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/business/ai" ><span>AI / DT 구축 사업</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/business/si" ><span>SI 통합 개발</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/business/ict" ><span>ICT 인프라</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/business/cloud" ><span>클라우드</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/business/rnd" ><span>R&amp;D 및 솔루션</span></a>
+													</li>
+											</ul>
+									</li>
+							<li class="n "> <!-- menu depth 2 -->
+									<a href="/board/notice" data-target="#mMenu_modal4"  ><span>고객 지원</span></a>
+									<ul class="depth2_ul" id="mMenu_modal4" data-parent="#mobile-menu"   style="display: none;" >
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/board/notice" ><span>공지사항</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/support/inquiry" ><span>고객문의</span></a>
+													</li>
+											</ul>
+									</li>
+							<li class="n "> <!-- menu depth 2 -->
+									<a href="/page/recruit/talent" data-target="#mMenu_modal5"  ><span>인재 채용</span></a>
+									<ul class="depth2_ul" id="mMenu_modal5" data-parent="#mobile-menu"   style="display: none;" >
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/recruit/talent" ><span>인재상</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/recruit/welfare" ><span>복리후생</span></a>
+													</li>
+											<li >
+													<!-- <a href=""><span>인사말</span></a> -->
+													<a href="/page/recruit/person" ><span>인재채용</span></a>
+													</li>
+											</ul>
+									</li>
+							<!-- <li class="list lang"><a href="" target="_blank" rel="noopener noreferrer" title="새창"><span></span>ENG</a></li> -->
+
+</ul>
+	                <button type="button" class="mobile-close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">닫기</span></button>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+	<!-- 모바일 메뉴 -->
+</header> 
+<div class="gnb_bg"></div>
+<script>
+    //setTimeout(function() {
+    $("#gnb_layout .depth1_ul>li.n6>a span").empty().html('<em>Channel</em>KRICT');
+    //}, 500);
+
+</script>
+
+<div class="pop_search" id="pop_search" style="display:none;">
+	<form action="/common/search">
+		<div class="pop_search_wrap">
+			<button type="button" id="btn_close" class="btn_close"></button>
+			<h4>isoft에 대해 검색해 보세요.</h4>
+			<div class="searchbox">
+				<input type="text" name="searchValue" id="searchValue" placeholder="검색어를 입력해주세요" required>
+				<button type="submit" class="ic_search"></button>
+			</div>
+		</div>
+		<div class="dimmed" id="dimmed"></div>
+	</form>
+</div>
+
+<script>
+    (function() {
+        var param = "#gnb_layout",
+            obj = ".item",
+            btn = ".th_1st",
+            wrap = "#top_layout",
+            dur = 300,
+            meth = "easeOutCubic";
+        gnb(param, obj, btn, wrap, dur, meth);
+        gnb_open();
+    }());
+
+    $(".clickOpen > a").on("click", function() {
+        $(this).parent().addClass("on");
+    });
+    $(".clickOpen a.clickClose").on("click", function() {
+        $(this).parents(".clickOpen").removeClass("on");
+    });
+
+    $(".clickOpen > button").on("click", function() {
+        $(this).parent().addClass("on");
+    });
+    $(".clickOpen button.clickClose").on("click", function() {
+        $(this).parents(".clickOpen").removeClass("on");
+    });
+
+/*     $(window).load(function() {
+        $.fn.fullpage.moveTo(1);
+    }); */
+
+</script>
+
+<!-- Google tag (gtag.js) -->
+<div id="appVue">
+    <!-- <div> -->
+		<div id="body_layout">
+			<!-- 
+			<ul id="main-menu">
+			    <li data-menuanchor="MAIN" class="active"><a href="#MAIN" title="MAIN 영역으로 이동"><span></span><em>MAIN</em></a></li>
+			    <li data-menuanchor="VISION"><a href="#VISION" title="VISION 영역으로 이동"><span></span><em>비전</em></a></li>
+			    <li data-menuanchor="BUSINESS"><a href="#BUSINESS" title="주요사업 영역으로 이동"><span></span><em>주요사업</em></a></li>
+			    <li data-menuanchor="CONTACT"><a href="#CONTACT" title="오시는길 영역으로 이동"><span></span><em>오시는길</em></a></li>
+			</ul>
+			 -->
+			
+			<div id="wrap">
+			
+			    <div class="bg"></div>
+			    <!-- <div id="appVue"> -->
+				    <!-- section1 -->
+				    <div class="section section1" id="section1">
+				        <div id="main_visual">
+				            <div class="title_wrap">
+				                <div class="">
+				                	<div class="pagingbox">
+		                                <div class="paging" data-paging="">
+		                                    <div class="inner"></div>
+		                                    <div id="paging-btnwrap-pause" class="paging-btnwrap">
+		                                        <button type="button" class="button pause first" data-control="stop">비주얼슬라이드 정지</button>
+		                                        <button type="button" class="button play" data-control="play">비주얼슬라이드 재생</button>
+		                                    </div>
+		                                </div>
+		                            </div>
+				                    <div class="scroll">SCROLL DOWN<span></span></div>
+				                </div>
+				            </div>
+				            <div class="viewer_area">
+				            <div class="images_fade images_fade1">
+				                    <div class="bgimg"></div>
+				                    <div class="tiptxtWrap">
+	<div class="tiptxt2">
+		<strong>고객 신뢰를 기반으로 <br>고품질 IT 서비스를 제공하는</strong>
+		<p><span style="color: #adff2f;">영원한 비즈니스 동반자</span></p>
+	</div>
+</div></div>
+								<div class="images_fade images_fade2">
+				                    <div class="bgimg"></div>
+				                    <div class="tiptxtWrap">
+	<div class="tiptxt2">
+		<strong>기술 혁신과 고객 만족으로  <br>최고의 <span style="color: #adff2f;">Smart ICT 서비스</span>를</strong>
+		<p>제공하는 전문기업</p>
+	</div>
+</div></div>
+								<div class="images_fade images_fade3">
+				                    <div class="bgimg"></div>
+				                    <div class="tiptxtWrap">
+	<div class="tiptxt2">
+		<strong>클라우드로 효율을,  <br>AI로 경쟁력을</strong>
+		<p><span style="color: #adff2f;">리딩하는 전문기업</span></p>
+	</div>
+</div></div>
+								</div>
+				        </div>
+				    </div>
+				    <!-- //section1 -->
+				
+				    <!-- section2 -->
+				    <div class="section section2 data1" id="section2">
+				        <div class="bgbox">
+				            <div class="bg bg1"></div>
+				            <div class="bg bg2"></div>
+				        </div>
+				        <div class="group clear">
+				            <div class="box box1 boxcon ov" data-num="1">
+				                <div class="inner">
+				                    <div class="tit">
+				                        <strong>핵심 가치</strong>
+				                    </div>
+				                    <div class="cont">
+				                        <ul class="clear">
+				                            <li>
+                                                <div>
+                                                    <i></i>
+				                                    <h1>혁신</h1>
+				                                </div>
+                                            </li>
+				                            <li>
+                                                <div>
+                                                    <i></i>
+				                                    <h1>도전</h1>
+				                                </div>
+                                            </li>
+				                            <li>
+                                                <div>
+                                                    <i></i>
+				                                    <h1>고객 지향</h1>
+				                                </div>
+                                            </li>
+				                            <li>
+                                                <div>
+                                                    <i></i>
+				                                    <h1>신뢰</h1>
+				                                </div>
+                                            </li>
+				                        </ul>
+				                    </div>
+				                </div>
+				            </div>
+                            <div class="box box3 boxcon" data-num="2">
+                                <div class="inner">
+                                    <div class="tit">
+                                        <strong>최근연혁<i></i></strong>
+                                    </div>
+                                    <div class="cont">
+                                        <div class="news">
+                                            <div>
+	                                            <h1>2024년</h1>
+	                                            <ul class="clearfix">
+						                            <li class="n1">
+						                                <p>- VMWARE Select Partnership</p>
+						                            </li>
+						                            <li class="n1">
+						                                <p>- Oracle OPN 및 PSADD Partnership</p>
+						                            </li>
+						                            <li class="n1">
+						                                <p>- EMC Partnership</p>
+						                            </li>
+						                            <li class="n1">
+						                                <p>- 소만사 Partnership</p>
+						                            </li>
+						                            <li class="n1">
+						                                <p>- Nutanix Partnership</p>
+						                            </li>
+	                                            </ul>
+                                            </div>
+                                        </div>
+	                                    <div class="tit mt10">
+	                                        <strong>특허 및 인증<i></i></strong>
+	                                    </div>
+                                        <div class="infoNews">
+                                            <ul class="clearfix">
+                                                <li class="i1">
+                                                    <h1>대용량 분석데이터 다차원 시각화</h1>
+                                                    <div class=""><a href="javascript:;"><img src="/site1/res/pub/front/img/main/pat01.png" alt="특허 이미지" /></a></div>
+                                                </li>
+                                                <li class="i1">
+                                                    <h1>빅데이터를 이용한 플랫폼 기반 대학 정보 데이터 분석	</h1>
+                                                    <div class=""><a href="javascript:;"><img src="/site1/res/pub/front/img/main/pat02.png" alt="특허 이미지" /></a></div>
+                                                </li>
+                                                <li class="i1">
+                                                    <h1>공존현실 기반 3D 설계도면 이용한 선체의장검사시스템</h1>
+                                                    <div class=""><a href="javascript:;"><img src="/site1/res/pub/front/img/main/pat03.png" alt="특허 이미지" /></a></div>
+                                                </li>
+                                                <li class="i2">
+                                                    <h1>작업환경 위험도 분석</h1>
+                                                    <div class=""><a href="javascript:;"><img src="/site1/res/pub/front/img/main/pat04.png" alt="특허 이미지" /></a></div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+				        </div>
+				    </div>
+				    <!-- //section2 -->
+				
+				    <!-- section3 -->
+				    <div class="section section3 data1" id="section3">
+				        <div class="bgbox">
+				            <div class="bg bg1"></div>
+				            <div class="bg bg2"></div>
+				            <div class="bg bg3"></div>
+				            <div class="bg bg4"><div class="bg4_bg"></div></div>
+				            <div class="bg bg5"><div class="bg5_bg"></div></div>
+				        </div>
+				        <div class="group clear">
+				            <div class="box box1 boxcon ov" data-num="1">
+				                <div class="inner">
+				                    <div class="boxcon_inner">
+				                        <div class="tit">
+				                            <p>SI Development</p>
+				                            <strong>SI 통합 개발</strong>
+				                        </div>
+				                        <div class="cont">
+				                            <a href="/page/business/si"><span>VIEW MORE</span><i></i></a>
+				                        </div>
+				                    </div>
+				                </div>
+				            </div>
+				            <div class="box box2 boxcon" data-num="2">
+				                <div class="inner">
+				                    <div class="boxcon_inner">
+				                        <div class="tit">
+				                            <p>ICT Infrastructure Construction</p>
+				                            <strong>ICT 인프라 구축</strong>
+				                        </div>
+				                        <div class="cont">
+				                            <a href="/page/business/ict"><span>VIEW MORE</span><i></i></a>
+				                        </div>
+				                    </div>
+				                </div>
+				            </div>
+				            <div class="box box3 boxcon" data-num="3">
+				                <div class="inner">
+				                    <div class="boxcon_inner">
+				                        <div class="tit">
+				                            <p>CLOUD</p>
+				                            <strong>클라우드</strong>
+				                        </div>
+				                        <div class="cont">
+				                            <a href="/page/business/cloud"><span>VIEW MORE</span><i></i></a>
+				                        </div>
+				                    </div>
+				                </div>
+				            </div>
+				            <div class="box box4 boxcon" data-num="4">
+				                <div class="inner">
+				                    <div class="boxcon_inner">
+				                        <div class="tit">
+				                            <p>IT Consulting</p>
+				                            <strong>IT컨설팅</strong>
+				                        </div>
+				                        <div class="cont">
+				                            <a href="/page/business/ict"><span>VIEW MORE</span><i></i></a>
+				                        </div>
+				                    </div>
+				                </div>
+				            </div>
+				            <div class="box box5 boxcon" data-num="5">
+				                <div class="inner">
+				                    <div class="boxcon_inner">
+				                        <div class="tit">
+				                            <p>Research & Development</p>
+				                            <strong>R&D</strong>
+				                        </div>
+				                        <div class="cont">
+				                            <a href="/page/business/rnd"><span>VIEW MORE</span><i></i></a>
+				                        </div>
+				                    </div>
+				                </div>
+				            </div>
+				        </div>
+				        
+				    </div>
+				    <!-- //section3 -->
+				
+				    <!-- section4 -->
+		    		<!-- 
+				    <div class="section section4" id="section4">
+				    	<div class="fix-layout">
+							<div class="centerList">
+								<ul class="clearfix">
+									<li>
+										<a href="/page/support/analysis/info">
+											<p>시험인증</p><i></i>
+										</a>
+									</li>
+									<li>
+										<a href="/page/support/startup/guide">
+											<p>창업보육</p><i></i>
+										</a>
+									</li>
+									<li>
+										<a href="/page/support/transfer/info">
+											<p>기술이전</p><i></i>
+										</a>
+									</li>
+									<li>
+										<a href="/support/equip/reserve/list">
+											<p>공동장비활용</p><i></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+							<div class="siteList">
+								<h1>관련사이트</h1>
+								<ul class="">
+									<li><a href="http://www.ismc.re.kr/" target="_blank">지능형신발제조<i></i></a></li>
+									<li><a href="https://and.re.kr"target="_blank">신발정보시스템<i></i></a></li>
+								</ul>
+							</div>
+				    	</div>
+	
+
+		            </div>
+					 -->
+			    <!-- //section4 -->
+
+			    <!-- section5 -->
+			    <div class="section section5 fp-auto-height" id="section5">
+			    	<footer id="foot_layout" class=" ">
+		<!-- 푸터틀 시작 -->
+		<div class="footer-link">
+		    <div class="layout">
+		        <ul class="clear">
+		        	<!-- <li><a href="/page/common/terms">이용약관</a></li> -->
+				            <li><a href="/page/common/privacy">개인정보처리방침</a></li>
+				            <!-- <li><a href="/page/common/email-collection-refuse">이메일무단수집거부</a></li> -->
+			        	</ul>
+		    </div>
+		</div>
+		<div class="footer-info layout">
+		    <div class="copy">
+		    	<div class="address">
+				            <p><span>대표번호 (051) 931-1700</span> FAX (051) 931-1709</p>
+				        </div>
+				        <p>부산광역시 해운대구 센텀동로 57, 506호(부산디자인진흥원)</p>
+		        	<p>COPYRIGHT(c) I-SOFT Co.Ltd. ALL RIGHTS RESERVED.</p>
+		
+		    </div>
+		    <div class="flogo">
+		    	<span><img src="/site1/res/pub/front/img/common/mark.png" alt="#"></span>
+		        	<ul>
+		            <li><a href="https://www.facebook.com/%EC%95%84%EC%9D%B4%EC%86%8C%ED%94%84%ED%8A%B8-2205679879649434/" target="_blank">페이스북</a></li>
+		            <li><a href="https://pf.kakao.com/_jPxkgG?from=qr" target="_blank">카카오톡</a></li>
+		            <!-- <li><a href="https://www.linkedin.com/in/isoft-co-577802170/" target="_blank">Linked-In</a></li> -->
+		            <!-- <li><a href="https://www.youtube.com/" target="_blank">유튜브</a></li> -->
+		        </ul>
+		    </div>
+		</div>
+		<!-- 푸터틀 끝 -->
+	</footer>
+<!-- </div> -->
+
+<a href="#" class="btn_top" alt="top"><span></span></a>
+
+<!-- 마스크 효과 -->
+<!-- <div id="mask"></div> -->
+<!-- 로딩 화면 -->
+</div>
+			    <!-- //section5 -->
+			
+			</div>
+				
+			<div id="quickMenu">
+			    <button type="button" id="quickOpen">문의하기</button>
+			    <ul class="quick-list">
+			        <li>
+			            <a href="https://open.kakao.com/o/gJ35VHHg" target="_blank">
+			                <i class="icon-quick01"></i>카카오톡
+			            </a>
+			        </li>
+			        <li>
+			            <a href="https://113366.com/isoft" target="_blank">
+			                <i class="icon-quick02"></i>원격접속
+			            </a>
+			        </li>
+			        <li>
+			            <a href="https://pf.kakao.com/_jPxkgG?from=qr" target="_blank">
+			                <i class="icon-quick03"></i>채널추가
+			            </a>
+			        </li>
+			        <li><button type="button" id="quickClose"><i class="icon-quick-close"></i>닫기</button></li>
+			    </ul>
+			</div>
+		</div>
+
+        
+
+</div> <!--  appvue div END. -->
+
+    <script src="/site1/res/biz/js/index.js?v=2025-04-09T21:20:32.368"></script>
+    
+</body>
+</html>
